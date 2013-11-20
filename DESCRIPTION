@@ -1,0 +1,18 @@
+Package: PIAAC
+Version: 1.0
+Type: Package
+Title: Set of datasets from PIAAC 2013 study
+Author: Przemyslaw Biecek <przemyslaw.biecek@gmail.com>
+Maintainer: Przemyslaw Biecek <przemyslaw.biecek@gmail.com>
+Description: This package aggregates datasets from PIAAC 2013 study. 
+        The original dataset is available here: \code{http://www.oecd.org/site/piaac/publicdataandanalysis.htm}. 
+        It was converted into the R package to facilitate access for researchers familiar with R.
+        Be aware it is quite large package.
+Repository: CRAN
+License: GPL-2
+LazyLoad: yes
+LazyData: yes
+URL: http://www.oecd.org/site/piaac/publicdataandanalysis.htm
+Depends: R (>= 2.8.0)
+LinkingTo:
+Imports:
